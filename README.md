@@ -1,0 +1,1 @@
+# MagazinePriborov.github.io
