@@ -1,1 +1,1 @@
-# MagazinePriborov.github.io
+# KulchytskiyDmytro.github.io
