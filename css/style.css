@@ -1,11 +1,12 @@
 
-p.biggreen{
-	front-size: 50px;
-	color: green;
-}
-
 
 span.bigred{
 	front-size: 20px;
 	color: red;	
+}
+
+
+p.biggreen{
+	front-size: 50px;
+	color: green;
 }
