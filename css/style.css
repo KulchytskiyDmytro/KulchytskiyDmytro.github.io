@@ -4,11 +4,6 @@ p.biggreen{
 	color: black;
 }
 
-span.name{
-	font-size: 30px;
-	mask-type: bold;
-}
-
 span.bigred{
 	font-size: 25px;
 	color: red;	
