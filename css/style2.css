@@ -1,5 +1,9 @@
 	
 .photo{
-	width: 500px;
-	height: 500px;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 5px solid black;
+	width: 25%;
+	height: 25%;
+	margin: 0 0 30px 0;
 }
