@@ -1,9 +1,166 @@
-	
+*{
+    box-sizing: border-box;
+}
+
 .photo{
-	overflow: hidden;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
 	border-radius: 50%;
-	border: 5px solid black;
-	width: 25%;
-	height: 25%;
-	margin: 0 0 30px 0;
+	height: 300px;
+
+}
+
+div.title{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 40px;	
+}
+
+.education{
+	font-size: 30px;
+	width: 45%;
+	height: 30px; 
+	border-bottom: 2px solid black;
+	margin: 2%;
+	float: left;
+	text-transform: capitalize;
+}
+
+.wk{
+	margin-top: 10px;
+	font-size: 30px;
+	width: 45%;
+	height: 30px; 
+	border-bottom: 2px solid black;
+	margin: 2%;
+	float: left;
+	text-transform: capitalize;	
+}
+
+.lg{
+	font-size: 30px;
+	width: 45%;
+	height: 30px; 
+	border-bottom: 2px solid black;
+	margin: 2%;
+	float: left;
+	text-transform: capitalize;
+}
+
+.skills {
+	font-size: 30px;
+	width: 45%;
+	height: 30px; 
+	border-bottom: 2px solid black;
+	margin: 2%;
+	float: left;
+	text-transform: capitalize;
+   }
+
+.direct{
+	font-size: 30px;
+	font-style: italic;
+}
+
+.block2{
+	font-size: 25px;
+}
+
+.block3{
+	font-style: inherit;
+	color: gray;
+}
+
+.edu{
+	width: 45%;
+	height: 50px; 
+	margin-left: 2%;
+	margin-right: 2%;
+	float: left;
+	text-transform: capitalize;
+}
+
+.skl{
+	width: 45%;
+	height: 50px; 
+	margin-left: 2%;
+	margin-right: 2%;
+	float: left;
+	text-transform: capitalize;
+}
+
+.cplus{
+	color: white;
+	font-size: 20px;
+	margin-bottom: 2%	;
+	margin-left: 2%;
+	margin-right: 2%;
+	border-radius: 20%;
+	border: 4px solid rgb(161, 159, 159);
+	background-color: rgb(161, 159, 159);
+}
+
+.js{
+	color: white;
+	font-size: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	border-radius: 20%;
+	border: 4px solid rgb(161, 159, 159);
+	background-color: rgb(161, 159, 159);
+}
+
+.sv{
+	color: white;
+	font-size: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	border-radius: 10%;
+	border: 4px solid rgb(161, 159, 159);
+	background-color: rgb(161, 159, 159);
+}
+
+.ph{
+	color: white;
+	font-size: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	border-radius: 10%;
+	border: 4px solid rgb(161, 159, 159);
+	background-color: rgb(161, 159, 159);
+}
+
+.css{
+	color: white;
+	font-size: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	border-radius: 20%;
+	border: 4px solid rgb(161, 159, 159);
+	background-color: rgb(161, 159, 159);
+}
+
+.html{
+	color: white;
+	font-size: 20px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+	border-radius: 20%;
+	border: 4px solid rgb(161, 159, 159);
+	background-color: rgb(161, 159, 159);
+}
+
+.sharp{
+	color: white;
+	font-size: 20px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+	border-radius: 20%;
+	border: 4px solid rgb(161, 159, 159);
+	background-color: rgb(161, 159, 159);
 }
